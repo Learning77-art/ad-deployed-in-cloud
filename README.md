@@ -45,16 +45,40 @@ This tutorial explains how to deploy and configure an on-premises Active Directo
 1. Create a Resource Group in Azure.
 2. Set up a Virtual Network (VNet) with a subnet.
 
+   ---
+
+<p align="center">
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Deployment Diagram"/>
+</p>
+
+---
+
 ### Step 2: Deploy Virtual Machines
 
 1. Deploy a Windows Server 2022 VM to act as the Domain Controller.
 2. Deploy a Windows 10 VM for testing and domain connection.
+
+   ---
+
+<p align="center">
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Deployment Diagram"/>
+</p>
+
+---
 
 ### Step 3: Configure Active Directory Domain Services (AD DS)
 
 1. Install the AD DS role on the Windows Server 2022 VM.
 2. Promote the server to a Domain Controller.
 3. Configure DNS to resolve domain names.
+
+   ---
+
+<p align="center">
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Deployment Diagram"/>
+</p>
+
+---
 
 ### Step 4: Join the Client Machine to the Domain
 
