@@ -1,40 +1,81 @@
-                                                           Ad Deployed in Cloud
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>On-Premises Active Directory in Azure</title>
+</head>
+<body>
+    <p align="center">
+        <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo" />
+    </p>
 
+    <h1>On-Premises Active Directory Deployed in the Cloud (Azure)</h1>
+    <p>
+        This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.
+    </p>
 
-                                                            
-Deploying On-Premises Active Directory in Azure Cloud
+    <h2>Video Demonstration</h2>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com" target="_blank">
+                <strong>YouTube: How to Deploy on-premises Active Directory within Azure Compute</strong>
+            </a>
+        </li>
+    </ul>
 
-This guide provides a step-by-step tutorial on implementing an on-premises Active Directory environment using Azure Virtual Machines. By leveraging Azure’s infrastructure, we replicate a traditional on-premises Active Directory setup in the cloud.
+    <h2>Environments and Technologies Used</h2>
+    <ul>
+        <li>Microsoft Azure (Virtual Machines/Compute)</li>
+        <li>Remote Desktop</li>
+        <li>Active Directory Domain Services</li>
+        <li>PowerShell</li>
+    </ul>
 
-Video Walkthrough:
+    <h2>Operating Systems Used</h2>
+    <ul>
+        <li>Windows Server 2022</li>
+        <li>Windows 10 (21H2)</li>
+    </ul>
 
-Watch the full video demonstration on YouTube:
-Deploying On-Premises Active Directory in Azure
+    <h2>High-Level Deployment and Configuration Steps</h2>
+    <ul>
+        <li>Step 1</li>
+        <li>Step 2</li>
+        <li>Step 3</li>
+        <li>Step 4</li>
+    </ul>
 
-Technologies and Tools Used:
+    <h2>Deployment and Configuration Steps</h2>
 
-Microsoft Azure: Virtual Machines and Compute resources.
-Remote Desktop Protocol (RDP): Access and manage virtual machines remotely.
-Active Directory Domain Services (AD DS): Directory services for authentication and management.
-PowerShell: Automation and configuration scripting.
+    <p>
+        <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    </p>
+    <br />
 
-Operating Systems:
+    <p>
+        <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    </p>
+    <br />
 
-Windows Server 2022: Acts as the Domain Controller for the Active Directory environment.
-Windows 10 (21H2): Used as a client machine for testing and validation.
-
-High-Level Deployment Steps:
-
-Azure Resource Setup: Create and configure resource groups, virtual networks, and subnets.
-VM Deployment: Provision virtual machines for the Domain Controller and a client system.
-Active Directory Configuration: Install and promote Active Directory Domain Services.
-Domain Join and Testing: Connect the client system to the domain and validate functionality.
-
-Deployment and Configuration Process
-Detailed instructions are included for each of the following steps:
-
-Step 1: Setting up Azure networking and resources.
-Step 2: Deploying and configuring the Domain Controller.
-Step 3: Promoting the server to a Domain Controller and setting up DNS.
-Step 4: Testing domain functionality with a client machine.
-This description maintains clarity and provides a professional summary of the project while rephrasing the original content. Let me know if you’d like any additional details!
+    <p>
+        <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    </p>
+    <br />
+</body>
+</html>
